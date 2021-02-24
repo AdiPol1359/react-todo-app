@@ -1,0 +1,16 @@
+.completed_tasks {
+    padding: 20px 0;
+}
+
+h2 {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.completed_tasks span.name {
+    font-weight: 700;
+}
+
+.completed_tasks span.time {
+    font-style: italic;
+}

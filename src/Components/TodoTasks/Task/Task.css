@@ -1,0 +1,11 @@
+.task {
+    margin-bottom: 5px;
+}
+
+.task span.name {
+    font-weight: 700;
+}
+
+.task span.important {
+    color: red;
+}
